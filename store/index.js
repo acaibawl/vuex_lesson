@@ -6,9 +6,15 @@ export const state = () => ({
   ]
 });
 
+// ミューテーションハンドラ
 export const mutations = {
+  // タイプが"increment"のミューテーションがトリガーされたときにこのハンドラが呼ばれるというイベント登録
   increment (state) {
     state.count++
+  },
+  add (state, payload) {
+    // ペイロードはオブジェクトにする
+    state.count += payload.amount
   }
 };
 
