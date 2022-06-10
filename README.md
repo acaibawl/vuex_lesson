@@ -1,3 +1,11 @@
+# 参考ページ
+
+https://vuex.vuejs.org/ja/
+
+# ショッピングカートの参考
+
+https://github.com/vuejs/vuex/tree/main/examples/classic/shopping-cart
+
 # vuex_lesson
 
 ## Build Setup
