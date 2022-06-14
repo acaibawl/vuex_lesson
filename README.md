@@ -1,12 +1,12 @@
-# 参考ページ
+# vuex_lesson
+
+## 参考ページ
 
 https://vuex.vuejs.org/ja/
 
-# ショッピングカートの参考
+## vuexを画面で動かしてみる参考
 
-https://github.com/vuejs/vuex/tree/main/examples/classic/shopping-cart
-
-# vuex_lesson
+https://github.com/vuejs/vuex/tree/main/examples/classic
 
 ## Build Setup
 
